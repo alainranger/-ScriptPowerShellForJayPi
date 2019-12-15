@@ -1,6 +1,7 @@
 # ScriptPowerShellForJayPi
 
 ## How to use
+In PowerShell
 
 ./reorgnaizefiles.ps1 -rootPath <répertoire root>
 
